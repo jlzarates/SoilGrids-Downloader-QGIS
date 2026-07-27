@@ -1,0 +1,18 @@
+[general]
+name=SoilGrids AOI Downloader
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+description=Descarga SoilGrids por poligono AOI, recorta, reproyecta y agrega variables por profundidad.
+about=Permite seleccionar una capa de delimitacion, variables SoilGrids y un intervalo de profundidad arbitrario entre 0 y 60 cm. Descarga las capas necesarias desde ISRIC, las recorta al AOI, reproyecta a EPSG destino y genera agregados ponderados por espesor.
+version=0.1.1
+author=Ricardo Zarate Sotelo
+email=
+icon=icon.svg
+category=Web
+experimental=True
+deprecated=False
+hasProcessingProvider=False
+homepage=https://files.isric.org/soilgrids/latest/data/
+tracker=
+repository=
+tags=SoilGrids,ISRIC,suelo,DSM,carbono,arcilla,pH,QGIS,GeoTIFF
