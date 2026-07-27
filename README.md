@@ -1,4 +1,4 @@
-# SoilGrids AOI Downloader para QGIS 3
+# SoilGrids Downloader para QGIS 3
 
 Complemento QGIS para descargar variables SoilGrids de ISRIC a partir de un
 poligono de delimitacion. El plugin recorta, reproyecta y genera agregados por
